@@ -20,7 +20,7 @@ from VIPMUSIC.utils.extraction import extract_user
 from config import BANNED_USERS
 
 
-@app.on_message(filters.command(["gban", "globalban"]) & SUDOERS)
+@app.on_message(filters.command(["mgban", "globalban"]) & SUDOERS)
 @language
 async def global_ban(client, message: Message, _):
     if not message.reply_to_message:
