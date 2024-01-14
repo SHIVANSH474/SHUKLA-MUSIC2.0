@@ -2,15 +2,15 @@
 ### 🌷𝐕ɪsɪᴛᴏʀs🌷
 
 <div align="center">
-  <img src="https://graph.org/file/5db7e483c1fe1bea7989f.jpg" width="600">
+  <img src="https://graph.org/file/90abbae9239cbad66c404.jpg" width="600">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+𝗠ᴇʟᴀɴɪᴀ+ダ+𝗠ᴜsɪᴄ+」+──;An+Advanced+telegram+Music+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+𝗔ʟᴇxᴀ+ダ+𝗠ᴜsɪᴄ+」+──;An+Advanced+telegram+Music+Bot.&width=600&height=180">
 </div>
 
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗠𝗘𝗟𝗔𝗡𝗜𝗔 𝗠𝗨𝗦𝗜𝗖](https://t.me/Melaniarobot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗔𝗟𝗘𝗫𝗔 𝗠𝗨𝗦𝗜𝗖](https://t.me/AlexaProbot)**
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
@@ -22,7 +22,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/SHIVANSH474/SHUKLA-MUSIC)
+[![Deploy To Heroku](https://graph.org/file/826b0a2fc82db8328a113.png)](https://dashboard.heroku.com/new-app?template=https://github.com/SHIVANSH474/SHUKLA-MUSIC2.0)
 
 <h2 align="center">
 
@@ -44,7 +44,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/SHIVANSH474/SHUKLA-MUSIC && cd ShuklaXMusic`
+`git clone https://github.com/SHIVANSH474/SHUKLA-MUSIC2.0 && cd ShuklaXMusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
