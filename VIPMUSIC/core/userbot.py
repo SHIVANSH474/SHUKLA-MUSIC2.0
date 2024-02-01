@@ -62,11 +62,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("THE_VIP_BOY")
-                await self.one.join_chat("THE_VIP_BOY_OP")
-                await self.one.join_chat("TG_FRIENDSS")
-                await self.one.join_chat("VIP_CREATORS")
-                await self.one.join_chat("dhhdshhss6")
+                await self.one.join_chat("SHIVANSH474")
+                await self.one.join_chat("SHIVANSH474")
+                await self.one.join_chat("SHIVANSH474")
+                await self.one.join_chat("mastiwithfriendsx")
+                await self.one.join_chat("mastiwithfriendsx")
             except:
                 pass
             assistants.append(1)
@@ -94,10 +94,10 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("THE_VIP_BOY")
-                await self.two.join_chat("THE_VIP_BOY_OP")
-                await self.two.join_chat("TG_FRIENDSS")
-                await self.two.join_chat("VIP_CREATORS")
+                await self.two.join_chat("SHIVANSH474")
+                await self.two.join_chat("SHIVANSH474")
+                await self.two.join_chat("mastiwithfriendsx")
+                await self.two.join_chat("mastiwithfriendsx")
             except:
                 pass
             assistants.append(2)
@@ -120,7 +120,7 @@ class Userbot(Client):
                 await self.three.join_chat("SHIVANSH474")
                 await self.three.join_chat("SHIVANSH474")
                 await self.three.join_chat("mastiwithfriendsx")
-                await self.three.join_chat("Alexa_X_Support")
+                await self.three.join_chat("mastiwithfriendsx")
             except:
                 pass
             assistants.append(3)
@@ -143,7 +143,7 @@ class Userbot(Client):
                 await self.four.join_chat("SHIVANSH474")
                 await self.four.join_chat("SHIVANSH474")
                 await self.four.join_chat("mastiwithfriendsx")
-                await self.four.join_chat("Alexa_X_Support")
+                await self.four.join_chat("mastiwithfriendsx")
             except:
                 pass
             assistants.append(4)
@@ -165,8 +165,8 @@ class Userbot(Client):
             try:
                 await self.five.join_chat("SHIVANSH474")
                 await self.five.join_chat("mastiwithfriendsx")
-                await self.five.join_chat("Alexa_X_Support")
-                await self.five.join_chat("dhhdshhss6")
+                await self.five.join_chat("mastiwithfriendsx")
+                await self.five.join_chat("SHIVANSH474")
             except:
                 pass
             assistants.append(5)
